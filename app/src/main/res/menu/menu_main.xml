@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.vielmond.meupeso.MainActivity">
+    <item
+        android:id="@+id/atualizar_id"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="@string/txt_atualizar"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>

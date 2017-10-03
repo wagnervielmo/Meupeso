@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu peso</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_cancelar">Cancelar</string>
+    <string name="txt_peso">Peso</string>
+    <string name="txt_datahora">Data e hora</string>
+    <string name="txt_atualizar">Atualizar</string>
+</resources>
